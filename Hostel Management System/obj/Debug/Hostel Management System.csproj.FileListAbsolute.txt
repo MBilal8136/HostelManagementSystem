@@ -1,0 +1,40 @@
+C:\Users\Bilal\source\repos\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe.config
+C:\Users\Bilal\source\repos\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe
+C:\Users\Bilal\source\repos\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.pdb
+C:\Users\Bilal\source\repos\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.AssemblyReference.cache
+C:\Users\Bilal\source\repos\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bilal\source\repos\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Form1.resources
+C:\Users\Bilal\source\repos\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Properties.Resources.resources
+C:\Users\Bilal\source\repos\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.GenerateResource.cache
+C:\Users\Bilal\source\repos\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\source\repos\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe
+C:\Users\Bilal\source\repos\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.pdb
+C:\Users\Bilal\source\repos\Hostel Management System\Hostel Management System\bin\Debug\Guna.UI2.dll
+C:\Users\Bilal\source\repos\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.CopyComplete
+C:\Users\Bilal\source\repos\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Dashboard.resources
+C:\Users\Bilal\source\repos\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.AllUserControls.UC_AddRoom.resources
+C:\Users\Bilal\source\repos\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.AllUserControls.UC_AddStudent.resources
+C:\Users\Bilal\source\repos\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.AllUserControls.UC_UpdateandDeleteStudent.resources
+C:\Users\Bilal\source\repos\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.AllUserControls.UC_StudentFees.resources
+C:\Users\Bilal\source\repos\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.AllUserControls.UC_AllStudentDetail.resources
+C:\Users\Bilal\source\repos\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.AllUserControls.UC_Checkout.resources
+C:\Users\Bilal\source\repos\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.AllUserControls.UC_AddEmployee.resources
+F:\C# project\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe.config
+F:\C# project\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe
+F:\C# project\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.pdb
+F:\C# project\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.AssemblyReference.cache
+F:\C# project\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.AllUserControls.UC_AddEmployee.resources
+F:\C# project\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.AllUserControls.UC_AddRoom.resources
+F:\C# project\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.AllUserControls.UC_AddStudent.resources
+F:\C# project\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.AllUserControls.UC_AllStudentDetail.resources
+F:\C# project\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.AllUserControls.UC_Checkout.resources
+F:\C# project\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.AllUserControls.UC_StudentFees.resources
+F:\C# project\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.AllUserControls.UC_UpdateandDeleteStudent.resources
+F:\C# project\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Dashboard.resources
+F:\C# project\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Form1.resources
+F:\C# project\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Properties.Resources.resources
+F:\C# project\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.GenerateResource.cache
+F:\C# project\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.CoreCompileInputs.cache
+F:\C# project\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.CopyComplete
+F:\C# project\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe
+F:\C# project\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.pdb
